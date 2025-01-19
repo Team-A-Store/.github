@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![apple-touch-icon](https://github.com/user-attachments/assets/72e86a3d-43ce-4653-ae51-5a55b39df01f)
+
 Welcome to **The A Team** GitHub community! We are a *FiveM* Tebex store, providing top-notch resources tailored for the FiveM community. Whether you're looking for premium scripts, unique mods, or other free FiveM enhancements, we've got you covered.
 
 *"Our goal is to empower server owners and players with tools that elevate their gaming experience."*
